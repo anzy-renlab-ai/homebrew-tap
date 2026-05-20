@@ -1,6 +1,6 @@
 cask "mypet" do
-  version "0.1.1"
-  sha256 "8f4d0e81c7fc696ee261f5c16265ca6b486affd2b27855969b2411f4c45f4bbd"
+  version "0.1.2"
+  sha256 "0f2fd8cacf0cd7c65aa1fe678123c7922edbf9269d783cf667a53465ad66b8b3"
 
   url "https://github.com/anzy-renlab-ai/mypet/releases/download/v#{version}/mypet-#{version}-macos.zip",
       verified: "github.com/anzy-renlab-ai/mypet/"
