@@ -25,6 +25,17 @@ cat to feed her one `claude -p` call.
 | ----- | ---------------------------------------------------------- | ------- |
 | mypet | Fluffy desktop cat that eats your Claude Code tokens       | 0.1.1   |
 
+## Available formulae
+
+| Formula | Description                                                              | Version |
+| ------- | ------------------------------------------------------------------------ | ------- |
+| say-it  | Pronounce 1,650+ developer jargon names out loud ([pronounce](https://github.com/anzy-renlab-ai/pronounce)) | 2.10.1  |
+
+```bash
+brew install anzy-renlab-ai/tap/say-it
+say-it kubectl
+```
+
 ## Updating
 
 ```bash
