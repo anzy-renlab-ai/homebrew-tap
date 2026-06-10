@@ -29,7 +29,7 @@ cat to feed her one `claude -p` call.
 
 | Formula | Description                                                              | Version |
 | ------- | ------------------------------------------------------------------------ | ------- |
-| say-it  | Pronounce 1,650+ developer jargon names out loud ([pronounce](https://github.com/anzy-renlab-ai/pronounce)) | 2.10.1  |
+| say-it  | Pronounce 1,650+ developer jargon names out loud ([pronounce](https://github.com/anzy-renlab-ai/pronounce)) | 2.11.1  |
 
 ```bash
 brew install anzy-renlab-ai/tap/say-it
