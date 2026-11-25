@@ -3,7 +3,6 @@ class SayIt < Formula
   homepage "https://pronounce.renlab.ai"
   url "https://github.com/anzy-renlab-ai/pronounce/releases/download/v#{version}/say-it-#{version}.tar.gz"
   version "2.42.0"
-  version "2.42.0"
   sha256 "4133584affca7467fdb8622cb6c75f609fc6e03c2f036097b6260fb3af704168"
   license "MIT"
 
