@@ -1,8 +1,8 @@
 class SayIt < Formula
   desc "Pronounce 1,988 developer jargon names out loud, with cited sources"
   homepage "https://pronounce.renlab.ai"
-  url "https://github.com/anzy-renlab-ai/pronounce/releases/download/v2.43.0/say-it-2.43.0.tar.gz"
-  sha256 "2e6bd7820b1a45f7f5518adc219115b8f73989a338e92d1f845de77a3717b9b3"
+  url "https://github.com/anzy-renlab-ai/pronounce/releases/download/v2.43.1/say-it-2.43.1.tar.gz"
+  sha256 "5b9f5a36679d7f5af29d341cd01c1557ff88cc6d7a6b88f0dd3b84153ab4b645"
   license "MIT"
 
   def install
